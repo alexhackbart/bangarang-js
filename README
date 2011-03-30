@@ -1,0 +1,1 @@
+This script was created to make it a little easier to organize our javascript functions. With it, we can easily add functions to execute on a per-page basis, all while keeping them in a single file.
