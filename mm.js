@@ -17,7 +17,7 @@ var MivaMerchant = {
         }
         
         // You can start adding global functions here, otherwise just drop them
-        // in on each page. Note that ID's with a hyphen turn into camelCase.
+        // in on each page. Note that IDs with a hyphen turn into camelCase.
     },
     
     SFNT: function()
