@@ -10,10 +10,7 @@ var MivaMerchant = {
 
         if( MivaMerchant[ mivaScreen ] )
         {
-            $( document ).ready(function()
-            { 
-                MivaMerchant[ mivaScreen ](); // If the function exists, run it, otherwise, don't do anything (like Jeff).
-            }); 
+            MivaMerchant[ mivaScreen ](); // If the function exists, run it, otherwise, don't do anything (like Jeff).
         }
         
         // You can start adding global functions here, otherwise just drop them
